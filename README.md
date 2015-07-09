@@ -1,0 +1,1 @@
+# resource-js-copy-paste-with-link
