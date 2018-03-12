@@ -1,7 +1,7 @@
 # Resource Copy and paste content with credits
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/resource-solutions/resource-js-copy-paste-with-credits.svg?style=flat-square)](https://github.com/resource-solutions/resource-js-copy-paste-with-credits/issues)
+[![issues](https://img.shields.io/github/issues/descco-tools/resource-js-copy-paste-with-credits.svg?style=flat-square)](https://github.com/descco-tools/resource-js-copy-paste-with-credits/issues)
 
 ## Contributing
 
@@ -13,7 +13,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/resource-solutions/resource-js-copy-paste-with-credits/releases) for detailed changelog.
+Check [Releases](https://github.com/descco-tools/resource-js-copy-paste-with-credits/releases) for detailed changelog.
 
 ## License
 
