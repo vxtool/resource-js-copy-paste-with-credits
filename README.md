@@ -1,7 +1,11 @@
 # Resource Copy and paste content with credits
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-tools/resource-js-copy-paste-with-credits.svg?style=flat-square)](https://github.com/descco-tools/resource-js-copy-paste-with-credits/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/resource-js-copy-paste-with-credits.svg)](https://github.com/org-victorinox/resource-js-copy-paste-with-credits/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/resource-js-copy-paste-with-credits.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/resource-js-copy-paste-with-credits.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/resource-js-copy-paste-with-credits.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/resource-js-copy-paste-with-credits/total.svg)
 
 ## Contributing
 
@@ -13,7 +17,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/descco-tools/resource-js-copy-paste-with-credits/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/resource-js-copy-paste-with-credits/releases) for detailed changelog.
 
 ## License
 
